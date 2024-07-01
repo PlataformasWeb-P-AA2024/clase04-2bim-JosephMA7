@@ -73,6 +73,9 @@ label {
   text: #FFF;
 
 }
+.top_menu ul a{
+  color: green;
+}
 
 footer{
   background: #5E5E5E;
